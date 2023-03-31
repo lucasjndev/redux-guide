@@ -1,6 +1,6 @@
 import CartActionTypes from "./action-types";
 
-export const addProductToCart = (playload)=>({
+export const addProductToCart = (payload)=>({
     type:CartActionTypes.ADD_PRODUCT,
-    playload
+    payload
 })
