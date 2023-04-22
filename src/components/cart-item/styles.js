@@ -7,6 +7,9 @@ export const CartItemContainer = styled.div`
 
   p {
     color: #222222;
+  };
+  svg {
+    color: #222222;
   }
 `;
 
